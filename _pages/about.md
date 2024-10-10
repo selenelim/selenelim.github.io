@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is the personal website of SELENE"
+title: "bobo's website"
 author_profile: true
 redirect_from: 
   - /about/
