@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 My name is SELENE.
-I am currently a YEAR 1 student in [Singapore Polytechnic](https://www.sp.edu.sg/) studying Computer Engineering.
+I am currently a YEAR 1 student in [Singapore Polytechnic](https://www.sp.edu.sg/).
 
 A data-driven personal website
 ======
