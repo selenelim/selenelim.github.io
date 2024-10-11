@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "newpfp.jpeg"
+  avatar           : "https://i.pinimg.com/736x/d3/31/ca/d331ca43fbad212fecb4e8c41be890e3.jpg"
   name             : "SELENE LIM"
   pronouns         : "she/her"
   bio              : "dumbass kid"
