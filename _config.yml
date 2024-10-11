@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   name             : "SELENE LIM"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"
   bio              : "dumbass kid"
   location         : "Singapore"
   employer         : "Singapore Polytechnic"
   uri              : # URL
-  email            : "bobofishballg@gmail.com" 
+  email            : "bobofishballg@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
